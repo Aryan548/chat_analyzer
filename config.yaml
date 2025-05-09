@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    aryan:
+      name: Aryan Verma
+      password: '$2b$12$KIX.QoXh4O6ZnVXH6Wnqje1L8WZ0ZP0eB1Kh.TG0G2tS/Hz1BPIhG' # Hash for "1234"
+    user1:
+      name: John Doe
+      password: '$2b$12$eJX.QoXh4O6ZnVXH6Wnqje1L8WZ0ZP0eB1Kh.TG0G2tS/Hz1BPIhG' # Hash for "5678"
+
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: whatsapp_chat_login
